@@ -4,8 +4,9 @@
 2. Eigenen Ordner (Ordnername = dein Name, Spitzname, etc.)
 3. README.md anlegen
 4. Bingokarte ausfüllen
+5. Jeder Begriff/Code/... darf nur einmal genutzt werden!
 
-Template für README.md:
+## Template
 
 ``` markdown
 | B | I | N | G | O |
@@ -26,3 +27,8 @@ Das sieht dann so aus:
 |   |   | X |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
+
+## Erlaubte Inhalte
+- HTTP Codes
+- Programmiersprachen
+- HTTP-Methoden
