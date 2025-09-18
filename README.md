@@ -8,7 +8,7 @@
 Template für README.md:
 
 ``` markdown
-|   |   |   |   |   |
+| B | I | N | G | O |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
@@ -16,3 +16,13 @@ Template für README.md:
 |   |   |   |   |   |
 |   |   |   |   |   |
 ```
+
+Das sieht dann so aus:
+
+| B | I | N | G | O |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   | X |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
